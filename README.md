@@ -1,3 +1,3 @@
 # hello-world
-second time out \n
+second time out /n
 and again
